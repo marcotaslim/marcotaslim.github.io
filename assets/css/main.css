@@ -3417,6 +3417,7 @@
 	}
 
 		#header > .logo {
+			font-size: 22px;
 			display: inline-block;
 			height: inherit;
 			left: 1.25em;
