@@ -2085,7 +2085,6 @@
 
 			.flex.flex-2 .col.col2 {
 				width: 60%;
-				transform: translateY(20%);
 			}
 
 			@media screen and (max-width: 736px) {
